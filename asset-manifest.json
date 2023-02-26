@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/protifolio-itsmatsouza/static/css/main.5d2f47f0.css",
-    "main.js": "/protifolio-itsmatsouza/static/js/main.f9fe7fc8.js",
+    "main.css": "/protifolio-itsmatsouza/static/css/main.e742e37c.css",
+    "main.js": "/protifolio-itsmatsouza/static/js/main.9a7caa1c.js",
     "static/media/portifolio1.png": "/protifolio-itsmatsouza/static/media/portifolio1.002146866bef45a436db.png",
     "static/media/about1.png": "/protifolio-itsmatsouza/static/media/about1.650791d830c0084475ad.png",
     "static/media/perfil6.png": "/protifolio-itsmatsouza/static/media/perfil6.79a664bde38cb1f52c15.png",
@@ -13,11 +13,11 @@
     "index.html": "/protifolio-itsmatsouza/index.html",
     "static/media/bgabout.svg": "/protifolio-itsmatsouza/static/media/bgabout.47eca30d54472fe10184.svg",
     "static/media/bgwork.svg": "/protifolio-itsmatsouza/static/media/bgwork.70b44d5c1506671727ea.svg",
-    "main.5d2f47f0.css.map": "/protifolio-itsmatsouza/static/css/main.5d2f47f0.css.map",
-    "main.f9fe7fc8.js.map": "/protifolio-itsmatsouza/static/js/main.f9fe7fc8.js.map"
+    "main.e742e37c.css.map": "/protifolio-itsmatsouza/static/css/main.e742e37c.css.map",
+    "main.9a7caa1c.js.map": "/protifolio-itsmatsouza/static/js/main.9a7caa1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d2f47f0.css",
-    "static/js/main.f9fe7fc8.js"
+    "static/css/main.e742e37c.css",
+    "static/js/main.9a7caa1c.js"
   ]
 }
