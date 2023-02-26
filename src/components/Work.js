@@ -113,7 +113,7 @@ const Work = () => {
                   className="rounded-[10px] bg-cover pb-2 flex items-center justify-center"
                 ></img>
                 <h3 className="pb-2 flex items-center justify-center text-[24px] font-bold">
-                  To Do List
+                  ToDoList(Apenas PC)
                   <i>
                     <GoLinkExternal />
                   </i>

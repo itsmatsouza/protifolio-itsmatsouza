@@ -8,7 +8,7 @@ import { Link } from "react-scroll";
 
 const About = () => {
   return (
-    <section className="section" id="about">
+    <section className="section min-h-[85vh]" id="about">
       <div className="container mx-auto">
         <div className="flex flex-col-reverse gap-y-10 items-center h-screen lg:flex-row lg:items-center">
           <motion.div

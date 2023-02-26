@@ -15,7 +15,7 @@ import { Link } from "react-scroll";
 const Banner = () => {
   return (
     <section
-      className="min-h-[85vh] lg:min-h-[78vh] flex items-center"
+      className="min-h-[85vh] lg:min-h-[78vh] flex items-start lg:items-center pt-6"
       id="home"
     >
       <div className="container mx-auto">
