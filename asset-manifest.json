@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/protifolio-itsmatsouza/static/css/main.5d2f47f0.css",
+    "main.js": "/protifolio-itsmatsouza/static/js/main.f9fe7fc8.js",
+    "static/media/portifolio1.png": "/protifolio-itsmatsouza/static/media/portifolio1.002146866bef45a436db.png",
+    "static/media/about1.png": "/protifolio-itsmatsouza/static/media/about1.650791d830c0084475ad.png",
+    "static/media/perfil6.png": "/protifolio-itsmatsouza/static/media/perfil6.79a664bde38cb1f52c15.png",
+    "static/media/portifolio2.png": "/protifolio-itsmatsouza/static/media/portifolio2.aaa5fc2580effdfe8d56.png",
+    "static/media/portifolio3.png": "/protifolio-itsmatsouza/static/media/portifolio3.cb913591ad8439936562.png",
+    "static/media/bgwave3.svg": "/protifolio-itsmatsouza/static/media/bgwave3.6e0d0b61f0dff2ebbeda.svg",
+    "static/media/bgcontact.svg": "/protifolio-itsmatsouza/static/media/bgcontact.40072d11dd3ac3771cd6.svg",
+    "static/media/bgservices.svg": "/protifolio-itsmatsouza/static/media/bgservices.ee539dc5e63d07dca28f.svg",
+    "index.html": "/protifolio-itsmatsouza/index.html",
+    "static/media/bgabout.svg": "/protifolio-itsmatsouza/static/media/bgabout.47eca30d54472fe10184.svg",
+    "static/media/bgwork.svg": "/protifolio-itsmatsouza/static/media/bgwork.70b44d5c1506671727ea.svg",
+    "main.5d2f47f0.css.map": "/protifolio-itsmatsouza/static/css/main.5d2f47f0.css.map",
+    "main.f9fe7fc8.js.map": "/protifolio-itsmatsouza/static/js/main.f9fe7fc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d2f47f0.css",
+    "static/js/main.f9fe7fc8.js"
+  ]
+}
